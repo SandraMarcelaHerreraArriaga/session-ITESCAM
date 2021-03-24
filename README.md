@@ -12,7 +12,7 @@ test
 ## TODO List Goals
 
 - Learn english - Sandra
-- Russel
+- Russel intento xd
 -
 -
 >>>>>>> 82409911d29843e90fbef7da38bc6e173fb85a96
