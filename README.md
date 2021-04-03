@@ -9,6 +9,6 @@ repository for agreements and goals 2021 ITESCAM
 ## TODO List Goals
 
 - Learn english - Sandra
--
+- Learn React - Miguel
 -
 -
